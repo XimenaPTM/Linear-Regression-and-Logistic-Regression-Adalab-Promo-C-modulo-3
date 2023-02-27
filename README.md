@@ -1,4 +1,4 @@
-# DA-promo-c-modulo-3-sprint-1-Ximena-Anahi
+# DA-promo-c-modulo-3-sprint-1
 
 **Repositorio del módulo 3: Machine Learning y Dashboards. Sprint 1.**
 
