@@ -1,4 +1,6 @@
-# DA-promo-c-modulo-3-sprint-1
+<img src="https://github.com/XimenaPTM/project2-da-promo-c-modulo-2-team4/blob/main/Ximena%20trujillo%20morillo.png" width="600" align='center'>
+
+### DA-promo-c-modulo-3-sprint-1
 
 **Repositorio del módulo 3: Machine Learning y Dashboards. Sprint 1.**
 
